@@ -1,11 +1,42 @@
 [
     {
-        "id": "01",
-        "name" : "Javascript",
-        "courseFree": "100",
+        "id": "1",
+        "name" : "Math",
+        "courseFee": "100",
         "image": null,
         "description": null,
-        "rating": "4"
-
+        "rating": "4",
+        "totalAssignment": "10",
+        "totalVideo": "50"
+    },
+    {
+        "id": "2",
+        "name" : "Chemestry",
+        "courseFee": "120",
+        "image": null,
+        "description": null,
+        "rating": "4.5",
+        "totalAssignment": "13",
+        "totalVideo": "80"
+    },
+    {
+        "id": "3",
+        "name" : "physics",
+        "courseFee": "150",
+        "image": null,
+        "description": null,
+        "rating": "4.7",
+        "totalAssignment": "14",
+        "totalVideo": "100"
+    },
+    {
+        "id": "4",
+        "name" : "Higher Math",
+        "courseFee": "150",
+        "image": null,
+        "description": null,
+        "rating": "4.6",
+        "totalAssignment": "11",
+        "totalVideo": "70"
     }
 ]
