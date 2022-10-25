@@ -1,42 +1,62 @@
 [
-    {
-        "id": "1",
-        "name" : "Math",
-        "courseFee": "100",
-        "image": null,
-        "description": null,
-        "rating": "4",
-        "totalAssignment": "10",
-        "totalVideo": "50"
-    },
-    {
-        "id": "2",
-        "name" : "Chemestry",
-        "courseFee": "120",
-        "image": null,
-        "description": null,
-        "rating": "4.5",
-        "totalAssignment": "13",
-        "totalVideo": "80"
-    },
-    {
-        "id": "3",
-        "name" : "physics",
-        "courseFee": "150",
-        "image": null,
-        "description": null,
-        "rating": "4.7",
-        "totalAssignment": "14",
-        "totalVideo": "100"
-    },
-    {
-        "id": "4",
-        "name" : "Higher Math",
-        "courseFee": "150",
-        "image": null,
-        "description": null,
-        "rating": "4.6",
-        "totalAssignment": "11",
-        "totalVideo": "70"
-    }
+  {
+    "id": "1",
+    "name": "Math",
+    "courseFee": "100",
+    "image": "https://i.ibb.co/MnrJGnK/math.jpg",
+    "description": "Learn fourth grade math—arithmetic, measurement, geometry, fractions, and more. This course is aligned with Common Core standards.",
+    "rating": "4",
+    "totalAssignment": "10",
+    "totalVideo": "50"
+  },
+  {
+    "id": "2",
+    "name": "Chemestry",
+    "courseFee": "120",
+    "image": "https://i.ibb.co/FXRX6c7/chemestry.jpg",
+    "description": "Chemistry is the study of substances—that is, elements and compounds—while biology is the study of living things. However, these two branches of science meet in the discipline of biochemistry, which studies the substances in living things and how they change within an organism.",
+    "rating": "4.5",
+    "totalAssignment": "13",
+    "totalVideo": "80"
+  },
+  {
+    "id": "3",
+    "name": "physics",
+    "courseFee": "150",
+    "image": "https://i.ibb.co/87HLP88/physics.jpg",
+    "description": "Physics is the branch of science that deals with the structure of matter and how the fundamental constituents of the universe interact. It studies objects ranging from the very small using quantum mechanics to the entire universe using general relativity.",
+    "rating": "4.7",
+    "totalAssignment": "14",
+    "totalVideo": "100"
+  },
+  {
+    "id": "4",
+    "name": "Higher Math",
+    "courseFee": "150",
+    "image": "https://i.ibb.co/THr40BL/Higher-Math.jpg",
+    "description": "Higher Mathematics is the title offered in Secondary Mathematics Courses. The terms higher mathematics and advanced level mathematics may refer to several advanced mathematics courses at many institutions.",
+    "rating": "4.6",
+    "totalAssignment": "11",
+    "totalVideo": "70"
+  },
+  {
+    "id": "5",
+    "name": "Biology",
+    "courseFee": "150",
+    "image": "https://i.ibb.co/CBQB7N5/biology.jpg",
+    "description": "Biology is a branch of science that deals with living organisms and their vital processes. Biology encompasses diverse fields, including botany, conservation, ecology, evolution, genetics, marine biology, medicine, microbiology, molecular biology, physiology, and zoology.",
+    "rating": "4.6",
+    "totalAssignment": "11",
+    "totalVideo": "70"
+  },
+  {
+    "id": "6",
+    "name": "science",
+    "courseFee": "150",
+    "image": "https://i.ibb.co/NNHfbvY/science.jpg",
+    "description": "The latest science news and developments about space, animal behavior, plant life, the brain, genetics, archaeology, robots and climate change",
+    "rating": "4.6",
+    "totalAssignment": "11",
+    "totalVideo": "70"
+  }
 ]
